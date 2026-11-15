@@ -48,8 +48,8 @@ Al terminar se crea el archivo `logs/software_fj.log` con todos los eventos y er
 
 ## Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
-- Nombre 4
-- Nombre 5
+- Estudiante 1: Eduardo Bermudez Arango
+- Estudiante 2
+- Estudiante 3
+- Estudiante 4
+- Estudiante 5
