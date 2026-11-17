@@ -12,7 +12,6 @@ Requiere Python 3.8 o superior. No necesita instalar librerías.
 python main.py
 ```
 
-Al terminar se crea el archivo `logs/software_fj.log` con todos los eventos y errores.
 
 ## Estructura
 
