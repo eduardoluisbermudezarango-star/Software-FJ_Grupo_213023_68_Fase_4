@@ -51,4 +51,4 @@ python main.py
 - Estudiante 2
 - Estudiante 3
 - Estudiante 4
-- Estudiante 5
+- Estudiante 5: Gianluca Rojas Acosta
