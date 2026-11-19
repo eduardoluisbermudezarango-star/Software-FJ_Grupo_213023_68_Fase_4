@@ -48,7 +48,7 @@ python main.py
 ## Integrantes
 
 - Estudiante 1: Eduardo Bermudez Arango
-- Estudiante 2
+- Estudiante 2  Daniel Cordoba Blanco
 - Estudiante 3
 - Estudiante 4
 - Estudiante 5: Gianluca Rojas Acosta
