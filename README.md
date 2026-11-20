@@ -50,5 +50,5 @@ python main.py
 - Estudiante 1: Eduardo Bermudez Arango
 - Estudiante 2
 - Estudiante 3
-- Estudiante 4
+- Estudiante 4 Cristian Romero Acosta
 - Estudiante 5: Gianluca Rojas Acosta
