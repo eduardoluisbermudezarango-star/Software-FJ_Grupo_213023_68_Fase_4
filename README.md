@@ -26,7 +26,7 @@ python main.py
 | `sistema.py` | Clase `SistemaGestion`: listas internas y captura de errores |
 | `main.py` | Simulación de 16 operaciones válidas e inválidas |
 
-## Requisitos del Anexo 3 y dónde se cumplen
+## Requisitos 
 
 | Requisito | Ubicación |
 |---|---|
@@ -48,7 +48,7 @@ python main.py
 ## Integrantes
 
 - Estudiante 1: Eduardo Bermudez Arango
-- Estudiante 2
-- Estudiante 3
-- Estudiante 4 Cristian Romero Acosta
+- Estudiante 2 Cristian Romero Acosta
+- Estudiante 3 Willam David Diaz Movil
+- Estudiante 4 
 - Estudiante 5: Gianluca Rojas Acosta
